@@ -44,4 +44,4 @@ kind create cluster
 curl http://localhost:8080/v1/message
 ```
 
-Expected Respone Content: Hello World
+Expected Response Content: Hello World
